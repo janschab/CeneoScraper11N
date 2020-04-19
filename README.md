@@ -24,5 +24,10 @@
 - zapis wszystkich opinii o pojedynczym produkcie do pliku
 ## Etap 4
 - transformacja i wyczyszczenie danych
-- refaktorin kodu
+- refaktoring kodu
 - parametryzacja 
+## Etap 5 (Pandas, Matplotlib)
+- wczytanie opinii do ramki danych
+- policzenie podstawowych statystyk
+- narysowanie wykresów funkcji
+## Etap 6 interfejs webowy dla scrapera (Flask)
