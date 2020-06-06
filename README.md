@@ -38,7 +38,10 @@
 >>        /app  
 >>>            /__init__.py
 >>>            /views.py  
->>>            /models.py  
+>>>            /models.py
+>>>            /forms.py
+>>>            /scraper.py
+>>>            /analizer.py  
 >>>            /static/  
 >>>>                /main.css
 >>>>                /figures_png
